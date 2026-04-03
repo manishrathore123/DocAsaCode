@@ -2,6 +2,6 @@
 
 See _Usage/Github Action_ for exemple of usage and installation.
 
-World from e20 2
+World  e20 2
 
 With sparse-checkout
