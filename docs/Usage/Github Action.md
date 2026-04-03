@@ -2,7 +2,7 @@
 
 ## Test
 
-## Example of 
+## Example of test
 
 ```yaml
 name: Sync Docs as Code - Confluence
