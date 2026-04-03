@@ -19,7 +19,7 @@ jobs:
         with:
           folder: docs
           username: princeofhearts.1989@gmail.com
-          password: ATATT3xFfGF0mdFUtXZPajH2wVVmmcp4H_umnUmB0pazoPatwKamy_5KM94CdeZ3RtJclAVphjppZpIeF1XrEsNFTzdzZKVUL_Tcn_atZNngshgR5RW8ZHJHZa-A5mZg5I2eVTiMvnJNfTTttlvo829Tp8LIu5HlNtdPgA4ZGUwZurr_EHs-3FM=273DC72C
+          password: ATATT3xFfGF0Ji7nh5Yji0Xyn83KOD4b66p-OxLRxgWPwbRUfzt6j6klqGPNJFDYcFxLF5nNt5KMRGlIGwfChVIRzroXZ1H42TfgpNN4GrpiEDXH-8rDHBzAe-yc3bUW4neZipGOU-_v5tgKkm-MXoy1q8nEFKof5M67M4xWLU1SpOcjT1CBXlo=6FFACFC1
           confluence-base-url: https://docasacodetest.atlassian.net/wiki
           space-key: Confluence1
           parent-page-id: 98329
