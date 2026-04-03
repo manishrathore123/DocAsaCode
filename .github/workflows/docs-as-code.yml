@@ -15,7 +15,7 @@ jobs:
         with:
           sparse-checkout: docs
       - name: Sync Docs as Code - Confluence
-        uses: Bhacaz/docs-as-code-confluence@udpate_node
+        uses: Bhacaz/docs-as-code-confluence@3.2.2
         with:
           folder: docs
           username: princeofhearts.1989@gmail.com
