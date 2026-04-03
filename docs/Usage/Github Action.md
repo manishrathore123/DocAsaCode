@@ -2,7 +2,7 @@
 
 ## Test
 
-## Example of action file
+## Example of 
 
 ```yaml
 name: Sync Docs as Code - Confluence
