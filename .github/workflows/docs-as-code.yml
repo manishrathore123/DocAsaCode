@@ -18,8 +18,8 @@ jobs:
         uses: Bhacaz/docs-as-code-confluence@udpate_node
         with:
           folder: docs
-          username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
-          confluence-base-url: ${{ secrets.CONFLUENCE_BASE_URL }}
-          space-key: ${{ secrets.SPACE_ID }}
-          parent-page-id: ${{ secrets.PARENT_PAGE_ID }}
+          username: princeofhearts.1989@gmail.com
+          password: ATATT3xFfGF0ctPgx1bb6l43rleSbWYxNulMEbt3W-5rZEgobrAqQdJCgfPQ4RnYbBlfw8X3Hx60KPG7-Xh58siQDZI44WKJ-WqoIGlyURisOmzg3sQHv1bmGO31keiDNlkmY9spXvjJ8SjWz7D885uDeymEr0HDTdAMRi54rs9riMMzPRk6w5o=22B9A158
+          confluence-base-url: https://docasacodetest.atlassian.net/wiki
+          space-key: Confluence1
+          parent-page-id: 98329
